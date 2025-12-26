@@ -1,0 +1,85 @@
+.app-header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 80px;
+}
+
+.links a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: black;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 30px;
+  padding: 40px 80px;
+}
+
+.content {
+  margin-bottom: 30px;
+}
+
+.content-container {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.content-container img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.author-min {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+.author {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.author img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.min {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.blog-title {
+  margin: 15px 0;
+}
+
+.mark-read-btn {
+  border: none;
+  background: #6047ec;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.side-part {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  height: fit-content;
+}
+
+.bookmark {
+  background: #f3f3f3;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+}

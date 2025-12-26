@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Which web frontend architecture fits best?",
+    "author": "Patrick Roos",
+    "date": "Dec 9, 2022",
+    "readTime": 11,
+    "authorImg": "/author1.jpg",
+    "cover": "/cover1.png"
+  },
+  {
+    "id": 2,
+    "title": "Twitter takes its algorithm open-source",
+    "author": "Mitchell Clark",
+    "date": "Apr 1, 2023",
+    "readTime": 6,
+    "authorImg": "/author2.jpg",
+    "cover": "/cover2.webp"
+  }
+]
